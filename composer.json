@@ -1,0 +1,14 @@
+{
+    "name": "sparkly/cms",
+    "description": "Sparkly CMS",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Dokov",
+            "email": "ivan@jetspark.io"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
