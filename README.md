@@ -1,2 +1,3 @@
-# cms
-Sparkly CMS
+# Sparkly CMS
+
+Will be released soon.
