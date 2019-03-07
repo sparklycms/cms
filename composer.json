@@ -9,5 +9,7 @@
             "email": "ivan@jetspark.io"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
